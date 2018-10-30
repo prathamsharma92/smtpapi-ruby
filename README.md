@@ -95,6 +95,7 @@ Quick links:
 - [Bug Reports](https://github.com/sendgrid/smtpapi-ruby/blob/master/CONTRIBUTING.md#submit_a_bug_report)
 - [Sign the CLA to Create a Pull Request](https://github.com/sendgrid/smtpapi-ruby/blob/master/CONTRIBUTING.md#cla)
 - [Improvements to the Codebase](https://github.com/sendgrid/smtpapi-ruby/blob/master/CONTRIBUTING.md#improvements_to_the_codebase)
+- [Review Pull Requests](https://github.com/sendgrid/smtpapi-ruby/blob/master/CONTRIBUTING.md#code-reviews)
 
 ## Credits
 
